@@ -1,0 +1,10 @@
+pyttsx3
+requests
+pyjokes
+wikipedia
+SpeechRecognition
+webbrowser
+python-dotenv
+opencv-python
+pywhatkit
+pyaudio

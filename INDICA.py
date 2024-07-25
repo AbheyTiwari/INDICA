@@ -95,8 +95,10 @@ def open_application(query):
 def send_email(subject, body, to_email):
     try:
         # Replace these placeholders with your email credentials
-        email_address = ''
-        email_password = ''
+        email="put in your email"
+        password="Put in your password"
+        email_address = email
+        email_password = password
 
         # Set up the email server
         server = smtplib.SMTP('smtp.gmail.com', 587)
@@ -365,7 +367,7 @@ if __name__ == "__main__":
                   os.close
 
         elif "who made you" in query:
-            speak("I was made by Abhey Tiwari and my first lines of code was written in 2019.")
+            speak("I was made by Abhey Tiwari His Github ID is AbheyTiwari.")
 
         elif "can you talk in hindi" in query:
             speak("No sorry I am not able to talk in hindi yet.")

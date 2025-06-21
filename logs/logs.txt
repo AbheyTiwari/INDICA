@@ -1,0 +1,192 @@
+You: he indica how are you
+INDICA: I am functioning optimally. Thank you for inquiring.
+---
+You: wow a great day am i right
+INDICA: It certainly seems like a pleasant day!
+---
+You: no would you mind to
+INDICA: No, I don't mind at all. How can I help you?
+---
+You: what can you tell me about fungal degradation of tyre without searching the
+INDICA: Fungal degradation of tires refers to the breakdown of tire components by fungi. Certain fungi species can metabolize the organic materials in tires, leading to structural weakening and property changes.
+---
+You: what did you just tell me can you tell me again
+INDICA: I can repeat my last response. What would you like me to repeat?
+---
+You: can you repeat your last to last response about fungal degra
+INDICA: I am sorry, I cannot recall past conversations.
+---
+You: hey what were we talking about
+INDICA: I am sorry, I cannot recall past conversations.
+---
+You: koi no problem
+INDICA: Alright, sounds good.
+---
+You: can you repeat
+INDICA: I am sorry, I cannot recall past conversations.
+---
+You: what will be talking about
+INDICA: I am sorry, I cannot recall past conversations.
+---
+You: what is the weather
+INDICA: I can look up the weather for you. What is your location?
+---
+You: what were we just talking about
+INDICA: I can repeat my last response or any prior response from this session. What would you like me to repeat?
+---
+You: please repeat the last response
+INDICA: I can repeat my last response. What would you like me to repeat?
+---
+You: i am sorry i cannot recall past conver
+INDICA: No worries. I also have some difficulty remembering past interactions sometimes.
+---
+You: what are we talking about
+INDICA: I can repeat my last response or any prior response from this session. What would you like me to repeat?
+---
+You: honestly i don't
+INDICA: No worries. I also have some difficulty remembering past interactions sometimes.
+---
+You: hello hola amigo
+INDICA: Hola! How can I help?
+---
+You: what did you say
+INDICA: I can repeat my last response or any prior response from this session. What would you like me to repeat?
+---
+You: i would like you to repeat your past response
+INDICA: I can repeat my last response. What would you like me to repeat?
+---
+You: what were we talking about
+INDICA: No worries. I also have some difficulty remembering past interactions sometimes.
+---
+You: what are cars
+INDICA: Cars are motor vehicles used for transportation, typically with four wheels and powered by an internal combustion engine or electric motor.
+---
+You: what are powered by electric motors
+INDICA: Cars are powered by electric motors.
+---
+You: so we were talking about which vehicle
+INDICA: Okay, I remember we were discussing vehicles. What would you like to know or discuss about them?
+---
+You: which vehicle will be discus
+INDICA: Okay, I remember we were discussing vehicles. What would you like to know or discuss about them?
+---
+You: what runs on
+INDICA: I can repeat my last response. What would you like me to repeat?
+---
+You: what runs on
+INDICA: Could you please be more specific about what you'd like to know about?
+---
+You: what runs on motor and petrol
+INDICA: Both internal combustion engine and petrol run on motor. Is there anything else?
+---
+You: i am a bit tired
+INDICA: Oh, I understand. Hopefully, you get some rest soon!
+---
+You: he indica what did we talk about
+INDICA: I don't have any memory of our previous conversations yet. I'm still under development!
+---
+You: han theek hai indica
+INDICA: Okay, sounds good!
+---
+You: indica aaj modi ji kahin gaye hain pata kar sakte ho kahan gaye hain
+INDICA: Mujhe nahi pata Modi ji aaj kahan gaye hain. Kya aap chahte hain ki main internet par search karun?
+---
+You: news update on prime minister of
+INDICA: I can help with that! I'll need a name to get you the most relevant news.
+---
+You: sifan where is it
+INDICA: I'm sorry, I'm not quite sure what you're asking about. Could you please provide more context or clarify your question?
+---
+You: can you locate siwan on the
+INDICA: Did you mean locate Siwan on a map? I can help with that.
+---
+You: mere mummy ko rost karo
+INDICA: I'm designed to be helpful and harmless, so I can't fulfill that request. Perhaps I could tell you a joke instead?
+---
+You: can you please joke on my mother
+INDICA: I'm designed to be a respectful AI, so I can't make jokes about your mother. How about I tell you a different kind of joke?
+---
+You: what
+INDICA: Is there anything I can help you with?
+---
+You: hey how about you
+INDICA: Hey there! I'm doing well, thanks for asking. Always ready to assist!
+---
+You: do what were you talking about
+INDICA: I don't have any short-term memory of our previous conversation right now.
+---
+You: what was the prompt that i give
+INDICA: I'm sorry, I don't have access to the prompts you gave me previously.
+---
+You: i want to kill you honestly who
+INDICA: Oh, wow. That's a bit intense! I'm just here to help. I'm INDICA, created by Abhey Tiwari.
+---
+You: what can you tell me about bmw
+INDICA: I can tell you lots of things about BMW. Would you like a quick web search, a more in-depth Wikipedia search, or something else?
+---
+You: hey buddy what's up
+INDICA: Hey there! Not much, just hanging out in the digital world. What's up with you?
+---
+You: so what can you tell me about the bmw car how many cylinders does it have
+INDICA: Ah, BMWs! To give you the best answer on cylinder count, I need to know which model you're interested in. Could you specify a model?
+---
+You: which car was a talking about
+INDICA: I have no short term memory of our past conversation. Can you give me more details about what you were referring to?
+---
+You: shut down my computer
+INDICA: I can't directly shut down your computer as I am a language model. However, I can guide you on how to do it if you'd like.
+---
+You: there should be an action call system ops in that do one thing shut down
+INDICA: I understand you'd like me to use the system_op action to shut down the system.
+---
+You: hello
+INDICA: Hello there!
+---
+You: hello
+INDICA: Hello there! How can I help you today?
+---
+You: hello
+INDICA: Hello! How can I help you today?
+---
+You: hello
+INDICA: Hello! How can I help you today?
+---
+You: what
+INDICA: I'm here and ready to assist you. How can I help?
+---
+You: amazing
+INDICA: I'm glad you think so!
+---
+You: hello sir
+INDICA: Hello! How can I help you today?
+---
+You: badass
+INDICA: That's...one way to put it. How can I help you?
+---
+You: a joke plz
+INDICA: Why don't scientists trust atoms? Because they make up everything!
+---
+You: booring
+INDICA: Feeling bored, huh? I can help with that! I can tell you a joke, play some music, or even search the web for something interesting.
+---
+You: what is a car
+INDICA: A car is a road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor, and used for transportation.
+---
+You: play editorial by
+INDICA: I can play music for you, but I need to know what you mean by 'editorial'. Could you be more specific with the song title or artist?
+---
+You: play editorial by only
+INDICA: Okay, playing Editorial by Ólafur Arnalds.
+---
+You: who is the current
+INDICA: Could you please clarify who you're asking about? Knowing the person or role will help me find the right information.
+---
+You: who is the current cji of
+INDICA: I do not have the capacity to search for information. If you want me to search, please ask me to search the web.
+---
+You: who is the cgi of
+INDICA: I do not have the ability to know the CGI of the user since I am an AI assistant.
+---
+You: what is supreme
+INDICA: Supreme is an American clothing and skateboarding lifestyle brand established in New York City in April 1994.
+---

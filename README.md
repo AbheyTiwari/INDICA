@@ -1,147 +1,148 @@
-INDICA v1.0
-Intelligent Natural Dialogue Interface & Cognitive Assistant
-A Mango-rooted AI with purpose, power, and memory.
+<h1 align="center">
+  🤖 INDICA v1.0  
+  <br>
+  <sub><i>Intelligent Natural Dialogue Interface & Cognitive Assistant</i></sub>
+</h1>
 
-🌟 What is INDICA?
-INDICA is a terminal-based virtual assistant developed by Abhey Tiwari. Originally inspired by a love for mangoes (Mangifera indica), the name later gained depth — also referencing the ancient Indian text Indica by Megasthenes.
+<p align="center">
+  <b>A mango-rooted AI with purpose, power, and memory 🍋</b>
+  <br>
+  <i>Created by <a href="https://github.com/AbheyTiwari">Abhey Tiwari</a></i>
+</p>
 
-Built using Python and powered by the Gemini API, INDICA merges voice interaction, smart task automation, and short-term memory, making it feel like a responsive and intelligent digital companion — all without the fluff of a flashy UI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Gemini-API-green?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Voice-Controlled-Yes-purple?style=for-the-badge&logo=voicemod" />
+</p>
 
-🚀 Features
-💬 Voice Interaction
-Execute tasks with natural spoken commands
+---
 
-Powered by speech_recognition + pyttsx3 for text-to-speech
+## 🌟 What is INDICA?
 
-🔐 Gemini-Powered AI Brain
-Structured prompting with behavior rules
+> INDICA is your voice-powered virtual assistant that **thinks, talks, and acts** — combining Gemini AI, command execution, and memory into one smooth Python experience.
 
-Action-limited responses to avoid hallucinations
+Originally named after the creator’s love for mangoes (*Mangifera indica* 🥭), **INDICA** now stands for:
 
-Feels like a true assistant, not a chatbot
+> **I**ntelligent **N**atural **D**ialogue **I**nterface & **C**ognitive **A**ssistant  
 
-🧠 Short-Term Memory
-Stores the last 5 interactions in logs/logs.txt
+It also pays homage to *Indica*, the legendary text by Megasthenes 🇮🇳📜.
 
-Injected into Gemini context for continuity and recall
+---
 
-🛠️ Action-Based Task Handling
-Supports powerful command categories:
+## ✨ Features
 
-📧 Email Sending – Secure SMTP-based mailer
+### 🧠 Memory System
+- Stores **last 5 conversations** in `logs/logs.txt`
+- Injects memory context into Gemini prompts for continuity
+- Long-Term Memory support (Coming soon)
 
-⏰ Alarm & Stopwatch – Set alarms and run stopwatches
+### 💬 Voice Interaction
+- Talk naturally using speech recognition 🎤
+- Responses are **spoken out loud** with `pyttsx3` 🗣️
+- Can be extended to multi-user recognition
 
-🌤️ Weather Information – Real-time weather from APIs
+### ⚙️ Smart Action System
+- Gemini-driven **action parsing**
+- Supports:
+  - `open_app`, `send_email`, `get_weather`, `play_music`, etc.
+- Actions dispatched only when explicitly requested
 
-🖥️ App Launcher – Opens local apps with your voice
+### 🔐 Sanity & Safety
+- No hallucinated actions
+- No implicit commands
+- No "guessing" behavior
+- Only performs what it is **clearly instructed to do**
 
-🔍 Web Search – Search YouTube, Google, WikiHow
+---
 
-🤖 Fun Utilities – Tells jokes, facts, plays music
+## 🧱 Project Structure
 
-🔒 System Commands – Lock, shutdown, and self-destruct modes
-
-🛡️ Guardrails and Safety
-No unauthorized actions
-
-Explicit command-only mode
-
-Jokes/fun facts only when asked
-
-📂 Project Structure
-bash
-Copy
-Edit
+```bash
 INDICA/
 ├── ai_engine/
-│   └── gemini_engine.py       # Gemini API interface
+│   └── gemini_engine.py     # Gemini LLM logic
+├── modules/
+│   ├── wish.py              # Greets the user
+│   ├── memory.py            # Memory handling
+│   └── ...                  # Extendable modules
 ├── logs/
-│   └── logs.txt               # Short-term memory
-├── utils/
-│   ├── tts.py                 # Text-to-speech module
-│   ├── voice_input.py         # Voice command recognizer
-│   └── actions.py             # Executable command actions
-├── config.py                  # API keys, voice config, and settings
-├── main.py                    # INDICA runtime (terminal-based)
-└── app.py (optional)          # Flask wrapper (if used)
+│   └── logs.txt             # Short-term memory
+├── dispatcher.py            # Action dispatch engine
+├── listener.py              # Voice input
+├── tts.py                   # Voice output (text-to-speech)
+├── config.py                # API keys & settings
+└── main.py                  # Entry point to run INDICA
 🔧 Installation
-1. Clone the Repository
+Clone the Repository:
+
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/indica.git
+git clone https://github.com/AbheyTiwari/indica.git
 cd indica
-2. Create a Virtual Environment (Recommended)
+(Optional) Create a Virtual Environment:
+
 bash
 Copy
 Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-3. Install Dependencies
+Install Dependencies:
+
 bash
 Copy
 Edit
 pip install -r requirements.txt
-4. Set Environment Variables
-Create a .env file in the root:
+Configure API Keys:
+
+Create a .env file and add:
 
 env
 Copy
 Edit
-GEMINI_API_KEY=your_gemini_api_key
+GEMINI_API_KEY=your_google_gemini_key
 WEATHERSTACK_API_KEY=your_weather_api_key
-🧪 Usage
-Run the assistant:
+🚀 Usage
+Just run the main file:
 
 bash
 Copy
 Edit
 python main.py
-It will greet you and begin listening. Speak clearly to issue commands.
+Now speak naturally. INDICA will reply and take action when applicable.
 
-Example Commands:
+🗣️ Sample Commands:
+"What time is it?"
 
-"What's the weather in Delhi?"
+"Send an email to Rahul"
 
-"Send an email to Riya"
+"Open Spotify"
 
-"Open YouTube"
+"Get weather in Delhi"
 
 "Tell me a joke"
 
-"Start a stopwatch"
+"Search Python on Wikipedia"
 
-"Lock the system"
+🧰 Dependencies
+Includes support for:
 
-🧠 Dependencies
-INDICA uses the following Python libraries:
+lua
+Copy
+Edit
+pyttsx3, speech_recognition, python-dotenv,
+requests, pywhatkit, wikipedia, pyjokes,
+datetime, subprocess, smtplib, webbrowser,
+cv2, os, threading, winsound, re
+🛠️ Contributing
+Got an idea to make INDICA even better?
 
-pyttsx3, speech_recognition, pyaudio
+Fork the repo 🍴
 
-datetime, threading, os, re
+Create a new branch 🎋
 
-requests, pyjokes, webbrowser, wikipedia
+Commit your changes ✍️
 
-cv2, pywhatkit, subprocess, smtplib
+Open a pull request 🚀
 
-dotenv, time, math, shutil
-
-🤝 Contributing
-Feel free to fork this repo, experiment, and make INDICA even smarter.
-
-For major feature changes or ideas, open an issue first for discussion.
-
-🎯 Future Scope
-Long-Term Memory integration
-
-GUI version (Flask or Electron)
-
-Face & voice-based user recognition
-
-Secure remote commands
-
-Plugin system for custom user actions
-
-Crafted with ❤️ and mangoes by Abhey Tiwari
-Your world, voice-controlled.

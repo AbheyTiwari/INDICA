@@ -1,0 +1,153 @@
+{
+  "personal_info": {
+    "full_name": "Abhey Tiwari",
+    "birth_date": "2004-05-14",
+    "gender": "Male",
+    "location": "East Delhi, India",
+    "languages": ["English (Fluent)", "Hindi (Fluent)", "German (Basic)"],
+    "personality_traits": ["Ambitious", "Analytical", "Curious", "Introverted", "Polymath"]
+  },
+
+  "projects": [
+    "INDICA: Voice-based AI assistant (Gemini API, V1–V3)",
+    "AI Hallucination Detection Model (LLM risk analysis)",
+    "Multimodal AI for Cancer Detection (CNN + structured data)",
+    "FileShare (Local privacy-first file sharing system)",
+    "Music Website Redesign (Modern UI/UX)",
+    "Keychain ESP32 Device (AI/ML + GPS + GSM for distress)",
+    "Sustainability Research on East Delhi Colleges",
+    "MRI-SkinCancer-AI (Image + medical hybrid diagnosis)",
+    "Portfolio Website (HTML/CSS/JS animations)"
+  ],
+
+  "academic": {
+    "degree": "BSc Mathematical Science, Maharaja Agrasen College, University of Delhi (2023–2027)",
+    "exams": ["Actuarial Science (IAI)", "UPSC Preparation"],
+    "courses": {
+      "ongoing": ["Google genAI"],
+      "paused": ["ISRO Course", "Coursera"]
+    },
+    "achievements": [
+      "Presented paper on environmental sustainability",
+      "Intermediate in WordPress, Python; beginner in C++"
+    ]
+  },
+
+  "professional": {
+    "roles": ["CMO", "COO"],
+    "organization": "MITR",
+    "focus_areas": ["AI/ML", "Healthcare Tech", "Privacy-first Tools", "Full-stack Dev"],
+    "career_goals": ["PhD in AI/ML", "PhD in Mathematics", "Internships in AI/ML"]
+  },
+
+  "finance": {
+    "spotify": {
+      "plan": "Premium Family ₹179/month",
+      "members": 6,
+      "your_contribution": 180,
+      "collected_from_each": 40
+    },
+    "goals": {
+      "monthly_income_target": 10000,
+      "methods": "Programming-based side income only"
+    },
+    "strategies": [
+      "Avoids stock market",
+      "No item reselling",
+      "Cost-sharing with peers",
+      "Subscription tracking"
+    ]
+  },
+
+  "preferences": {
+    "hobbies": ["Cycling", "Programming", "Movies", "Debating", "Football", "coding"],
+    "themes": ["Espionage", "Luxury", "Kingsman"],
+    "interests": ["Multitasking", "Web Dev", "AI", "Systems", "Research"],
+    "favorites": {
+      "show": "Panchayat",
+      "character_arc": "Rinky & Sachin ji"
+    },
+    "assistant_tone": "Intelligent, witty, flirty, sarcastic but respectful"
+  },
+  "social_media": {
+    "platforms": ["Instagram", "LinkedIn", "GitHub", "YouTube"],
+    "usage": {
+      "Instagram": "Personal updates, memes",
+      "LinkedIn": "Professional networking",
+      "GitHub": "Project showcase",
+      "YouTube": "Learning and entertainment"
+    }
+  },
+  "technical_skills": {
+    "languages": ["Python", "C++", "HTML5", "CSS3", "JavaScript (Basic)"],
+    "frameworks": ["Flask", "FastAPI", "Django", "TensorFlow", "PyTorch", "Bootstrap", "Material UI"],
+    "tools": ["Git", "GitHub", "Figma", "Microsoft 365", "Google Colab", "VS Code", "Linux"],
+    "ai_ml": ["CNNs", "NLP", "XGBoost", "SHAP", "Transfer Learning", "Prompt Engineering"],
+    "web_dev": ["Full-stack", "Responsive Design", "Local Network Systems", "Server Management"]
+  },
+
+  "relationships": {
+    "family": {
+      "sister": {
+        "name": "Kakuli Tiwari",
+        "age": 19,
+        "relation": "Close",
+        "context": "Spotify cost-sharing"
+      },
+      "Mother": {
+        "name": "Reena Tiwari",
+        "age": 45,
+        "relation": "Supportive",
+        "context": "Encourages education and career"
+      },
+      "Father": {
+        "name": "Ajay Tiwari",
+        "age": 50,
+        "relation": "Close",
+        "context": "supportive, can fix anything, finacially starained"
+    },
+    "younger_brother": {
+        "name": "Aadityanath Tiwari",
+        "age": 14,
+        "relation": "Close",
+        "context": "irritate me, but I love him"
+    },
+    "college": {
+      "groups":{
+        "Chakraview debating society": {
+          "role": "Left on June 2025",
+          "context": "Participates in debates, enjoys discussions"
+        },
+        "G-one": {
+          "role": "R&D head, Core member",
+          "context": "Environmental sustainability group"
+        },
+        "Macstak": {
+          "role": "Core meber",
+          "context": "College tech club, enjoys coding challenges"
+        }
+      }
+    }
+  },
+
+  "emotional_memory": {
+    "pride": "INDICA development journey",
+    "humor": "Jokes about INDICA having a personality",
+    "joys": ["Debugging", "Refining AI interactions"]
+  },
+
+  "vision_and_goals": {
+    "short_term": [
+      "Build INDICA UI",
+      "Add WhatsApp/LinkedIn integration",
+      "Finish memory system"
+    ],
+    "long_term": [
+      "Offline capability",
+      "Multi-agent control",
+      "Human-level productivity AI"
+    ],
+    "ultimate_vision": "INDICA V1 → V3 as autonomous, embedded, context-aware AI"
+  }
+}
+}

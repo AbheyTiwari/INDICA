@@ -1,77 +1,80 @@
 import os
+import json
 import subprocess
+import re
+from difflib import get_close_matches
+# Assuming 'tts' module and 'speak' function are correctly implemented and accessible
 from tts import speak
 
-# Add aliases for common apps
-app_aliases = {
-    "vs code": "code",
-    "visual studio code": "code",
-    "chrome": "chrome",
-    "firefox": "firefox",
-    "notepad": "notepad",
-    "word": "winword",
-    "excel": "excel",
-    "powerpoint": "powerpnt",
-    "outlook": "outlook",
-    "cmd": "cmd",
-    "terminal": "cmd"
-}
+# Dynamically locate apps.json inside the same folder
+APP_JSON_PATH = os.path.join(os.path.dirname(__file__), "apps.json")
+
+# Load app path mappings
+try:
+    with open(APP_JSON_PATH, "r") as f:
+        APP_PATHS = json.load(f)
+except FileNotFoundError:
+    speak("App mapping file not found. Please ensure apps.json is in the same directory.")
+    APP_PATHS = {}
+except json.JSONDecodeError as e:
+    speak(f"Error reading apps.json: Invalid JSON format. {str(e)}")
+    APP_PATHS = {}
+except Exception as e: # Catch any other potential file reading errors
+    speak(f"An unexpected error occurred while loading apps.json: {str(e)}")
+    APP_PATHS = {}
+
+
+def clean_input(query: str) -> str:
+    query = query.lower()
+    # Expanded common filler words
+    query = re.sub(r"\b(open|launch|start|run|the|app|application|please|a|up|can you|could you)\b", "", query)
+    return query.strip()
 
 def open_application(query: str):
-    app_name = query.lower().replace("open", "").strip()
-    app_exe = app_aliases.get(app_name, app_name)
+    raw_input = clean_input(query)
 
-    speak(f"Attempting to open {app_name}, Sir.")
-
-    # Try start command (PATH apps)
-    try:
-        subprocess.Popen(['start', '', app_exe], shell=True)
+    if not raw_input:
+        speak("Can you please specify which application you would like me to open?")
         return
-    except:
-        pass
 
-    # Try 'where' command
+    print(f"[DEBUG] Parsed app name for lookup: '{raw_input}'")
+
+    matched = get_close_matches(raw_input, APP_PATHS.keys(), n=1, cutoff=0.6)
+
+    if not matched:
+        speak(f"Sorry, I don't recognize the application '{raw_input}'. Please make sure it's added to my list or try a different phrasing.")
+        return
+
+    app_name = matched[0]
+    path = APP_PATHS[app_name]
+
+    speak(f"Okay, attempting to open {app_name} for you.")
+    print(f"[DEBUG] Attempting to open '{app_name}' at path: '{path}'")
+
     try:
-        result = subprocess.run(['where', app_exe], stdout=subprocess.PIPE, text=True, shell=True)
-        found_path = result.stdout.strip().split('\n')[0]
-        if os.path.exists(found_path):
-            subprocess.Popen(found_path)
-            speak(f"{app_name} launched from system path.")
-            return
-    except:
-        pass
+        if os.path.isdir(path):
+            # Use os.startfile for opening folders/directories
+            os.startfile(path)
+            speak(f"{app_name} folder is now open.")
+        elif path.lower().startswith("shell:appsfolder"):
+            # Use subprocess.Popen with explorer.exe for Windows Store Apps (UWP)
+            subprocess.Popen(f'explorer.exe "{path}"', shell=True)
+            speak(f"{app_name} launched successfully via Windows Shell.")
+        else:
+            # For .exe, .bat, .lnk, or system commands (like 'notepad.exe')
+            # os.startfile is generally preferred for opening, but Popen with shell=True
+            # is robust for system commands not found in current directory.
+            # If path points to an executable, os.startfile often works well.
+            # If it's a command like "notepad.exe" in PATH, shell=True is needed with Popen.
+            # Let's keep Popen with shell=True for broad compatibility here.
+            subprocess.Popen(path, shell=True)
+            speak(f"{app_name} launched successfully.")
 
-    # Try Start Menu shortcuts
-    start_menu_dirs = [
-        os.path.join(os.environ['APPDATA'], r'Microsoft\Windows\Start Menu\Programs'),
-        os.path.join(os.environ['PROGRAMDATA'], r'Microsoft\Windows\Start Menu\Programs')
-    ]
-
-    for base_dir in start_menu_dirs:
-        for root, dirs, files in os.walk(base_dir):
-            for file in files:
-                if app_name in file.lower() and file.endswith('.lnk'):
-                    try:
-                        os.startfile(os.path.join(root, file))
-                        speak(f"Shortcut for {app_name} launched.")
-                        return
-                    except:
-                        pass
-
-    # Deep scan in Program Files
-    program_dirs = [os.environ.get('ProgramFiles'), os.environ.get('ProgramFiles(x86)')]
-    for prog_dir in program_dirs:
-        if not prog_dir:
-            continue
-        for root, dirs, files in os.walk(prog_dir):
-            for file in files:
-                if file.lower().startswith(app_name) and file.endswith('.exe'):
-                    try:
-                        subprocess.Popen(os.path.join(root, file))
-                        speak(f"{app_name} launched from Program Files.")
-                        return
-                    except:
-                        pass
-
-    speak(f"Sorry, I couldn’t locate {app_name} anywhere on your system.")
-    speak("Please check the application name and try again.")
+    except FileNotFoundError:
+        speak(f"The file or application at '{path}' was not found. Please check the path in apps.json.")
+    except PermissionError:
+        speak(f"Permission denied to launch {app_name}. You might need administrator privileges.")
+    except Exception as e:
+        # Catch other unexpected errors during launch
+        speak(f"An unexpected error occurred while launching {app_name}. Error: {str(e)}")
+        print(f"[ERROR] Failed to launch {app_name} ('{path}'). Error details: {e}")

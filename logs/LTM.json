@@ -1,153 +1,155 @@
 {
   "personal_info": {
-    "full_name": "Abhey Tiwari",
-    "birth_date": "2004-05-14",
-    "gender": "Male",
-    "location": "East Delhi, India",
-    "languages": ["English (Fluent)", "Hindi (Fluent)", "German (Basic)"],
-    "personality_traits": ["Ambitious", "Analytical", "Curious", "Introverted", "Polymath"]
+    "full_name": "Your Name Here",
+    "birth_date": "YYYY-MM-DD",
+    "gender": "Your Gender",
+    "location": "Your City, Country",
+    "languages": ["English (Fluent)", "Your Native Language", "Optional Language"],
+    "personality_traits": ["Ambitious", "Curious", "Analytical"]
   },
 
   "projects": [
-    "INDICA: Voice-based AI assistant (Gemini API, V1–V3)",
-    "AI Hallucination Detection Model (LLM risk analysis)",
-    "Multimodal AI for Cancer Detection (CNN + structured data)",
-    "FileShare (Local privacy-first file sharing system)",
-    "Music Website Redesign (Modern UI/UX)",
-    "Keychain ESP32 Device (AI/ML + GPS + GSM for distress)",
-    "Sustainability Research on East Delhi Colleges",
-    "MRI-SkinCancer-AI (Image + medical hybrid diagnosis)",
-    "Portfolio Website (HTML/CSS/JS animations)"
+    "Your AI Assistant Project",
+    "LLM Risk Analysis Tool",
+    "Multimodal AI Health Project",
+    "Privacy-first File Sharing Tool",
+    "Website Redesign with Modern UI",
+    "IoT Device for Emergency Response",
+    "Research on Local Sustainability",
+    "Medical Diagnosis AI Model",
+    "Personal Portfolio Website"
   ],
 
   "academic": {
-    "degree": "BSc Mathematical Science, Maharaja Agrasen College, University of Delhi (2023–2027)",
-    "exams": ["Actuarial Science (IAI)", "UPSC Preparation"],
+    "degree": "Your Degree & College Info",
+    "exams": ["Relevant Competitive Exam 1", "Exam 2"],
     "courses": {
-      "ongoing": ["Google genAI"],
-      "paused": ["ISRO Course", "Coursera"]
+      "ongoing": ["Current Course"],
+      "paused": ["Paused Course"]
     },
     "achievements": [
-      "Presented paper on environmental sustainability",
-      "Intermediate in WordPress, Python; beginner in C++"
+      "Presented a Research Paper",
+      "Intermediate in Tech Stack X; Beginner in Y"
     ]
   },
 
   "professional": {
-    "roles": ["CMO", "COO"],
-    "organization": "MITR",
-    "focus_areas": ["AI/ML", "Healthcare Tech", "Privacy-first Tools", "Full-stack Dev"],
-    "career_goals": ["PhD in AI/ML", "PhD in Mathematics", "Internships in AI/ML"]
+    "roles": ["Your Role 1", "Role 2"],
+    "organization": "Organization Name",
+    "focus_areas": ["AI/ML", "Web Development", "Privacy Tech", "Full-stack Projects"],
+    "career_goals": ["PhD/Internships", "Advanced Research"]
   },
 
   "finance": {
     "spotify": {
-      "plan": "Premium Family ₹179/month",
+      "plan": "Premium Family",
       "members": 6,
       "your_contribution": 180,
       "collected_from_each": 40
     },
     "goals": {
       "monthly_income_target": 10000,
-      "methods": "Programming-based side income only"
+      "methods": "Side Income from Tech Projects"
     },
     "strategies": [
-      "Avoids stock market",
-      "No item reselling",
+      "Avoid risky investments",
+      "No reselling",
       "Cost-sharing with peers",
-      "Subscription tracking"
+      "Track subscriptions"
     ]
   },
 
   "preferences": {
-    "hobbies": ["Cycling", "Programming", "Movies", "Debating", "Football", "coding"],
-    "themes": ["Espionage", "Luxury", "Kingsman"],
-    "interests": ["Multitasking", "Web Dev", "AI", "Systems", "Research"],
+    "hobbies": ["Cycling", "Coding", "Watching Movies", "Debating", "Football"],
+    "themes": ["Espionage", "Luxury", "Minimalism"],
+    "interests": ["AI", "Systems", "Web Dev", "Research"],
     "favorites": {
-      "show": "Panchayat",
-      "character_arc": "Rinky & Sachin ji"
+      "show": "Favorite Show Here",
+      "character_arc": "Preferred Character Arc"
     },
-    "assistant_tone": "Intelligent, witty, flirty, sarcastic but respectful"
+    "assistant_tone": "Witty, intelligent, slightly sarcastic but respectful"
   },
+
   "social_media": {
     "platforms": ["Instagram", "LinkedIn", "GitHub", "YouTube"],
     "usage": {
-      "Instagram": "Personal updates, memes",
-      "LinkedIn": "Professional networking",
-      "GitHub": "Project showcase",
-      "YouTube": "Learning and entertainment"
+      "Instagram": "Personal & Casual",
+      "LinkedIn": "Networking & Updates",
+      "GitHub": "Showcasing Projects",
+      "YouTube": "Learning & Fun"
     }
   },
+
   "technical_skills": {
-    "languages": ["Python", "C++", "HTML5", "CSS3", "JavaScript (Basic)"],
-    "frameworks": ["Flask", "FastAPI", "Django", "TensorFlow", "PyTorch", "Bootstrap", "Material UI"],
-    "tools": ["Git", "GitHub", "Figma", "Microsoft 365", "Google Colab", "VS Code", "Linux"],
-    "ai_ml": ["CNNs", "NLP", "XGBoost", "SHAP", "Transfer Learning", "Prompt Engineering"],
-    "web_dev": ["Full-stack", "Responsive Design", "Local Network Systems", "Server Management"]
+    "languages": ["Python", "C++", "HTML", "CSS", "JavaScript"],
+    "frameworks": ["Flask", "FastAPI", "Django", "TensorFlow", "Bootstrap"],
+    "tools": ["Git", "Figma", "VS Code", "Linux", "Google Colab"],
+    "ai_ml": ["CNNs", "NLP", "XGBoost", "SHAP", "Prompt Engineering"],
+    "web_dev": ["Full-stack Dev", "Responsive Design", "Server Mgmt"]
   },
 
   "relationships": {
     "family": {
       "sister": {
-        "name": "Kakuli Tiwari",
-        "age": 19,
+        "name": "Sibling Name",
+        "age": "Age",
         "relation": "Close",
-        "context": "Spotify cost-sharing"
+        "context": "Shared subscriptions"
       },
-      "Mother": {
-        "name": "Reena Tiwari",
-        "age": 45,
+      "mother": {
+        "name": "Parent Name",
+        "age": "Age",
         "relation": "Supportive",
-        "context": "Encourages education and career"
+        "context": "Encourages personal growth"
       },
-      "Father": {
-        "name": "Ajay Tiwari",
-        "age": 50,
+      "father": {
+        "name": "Parent Name",
+        "age": "Age",
         "relation": "Close",
-        "context": "supportive, can fix anything, finacially starained"
-    },
-    "younger_brother": {
-        "name": "Aadityanath Tiwari",
-        "age": 14,
-        "relation": "Close",
-        "context": "irritate me, but I love him"
+        "context": "Skilled and resourceful"
+      },
+      "younger_brother": {
+        "name": "Sibling Name",
+        "age": "Age",
+        "relation": "Playful",
+        "context": "Fun but sometimes annoying"
+      }
     },
     "college": {
-      "groups":{
-        "Chakraview debating society": {
-          "role": "Left on June 2025",
-          "context": "Participates in debates, enjoys discussions"
+      "groups": {
+        "Debate Club": {
+          "role": "Former Member",
+          "context": "Engaged in public speaking"
         },
-        "G-one": {
-          "role": "R&D head, Core member",
-          "context": "Environmental sustainability group"
+        "Sustainability Group": {
+          "role": "R&D Lead",
+          "context": "Environmental research"
         },
-        "Macstak": {
-          "role": "Core meber",
-          "context": "College tech club, enjoys coding challenges"
+        "Tech Club": {
+          "role": "Core Member",
+          "context": "Coding competitions & projects"
         }
       }
     }
   },
 
   "emotional_memory": {
-    "pride": "INDICA development journey",
-    "humor": "Jokes about INDICA having a personality",
-    "joys": ["Debugging", "Refining AI interactions"]
+    "pride": "Building my AI assistant from scratch",
+    "humor": "Giving it a funny personality",
+    "joys": ["Debugging complex systems", "Creating clever AI interactions"]
   },
 
   "vision_and_goals": {
     "short_term": [
-      "Build INDICA UI",
-      "Add WhatsApp/LinkedIn integration",
-      "Finish memory system"
+      "Build AI UI",
+      "Add social media integration",
+      "Complete memory framework"
     ],
     "long_term": [
-      "Offline capability",
-      "Multi-agent control",
-      "Human-level productivity AI"
+      "Run AI fully offline",
+      "Enable multi-agent orchestration",
+      "Achieve near-human productivity"
     ],
-    "ultimate_vision": "INDICA V1 → V3 as autonomous, embedded, context-aware AI"
+    "ultimate_vision": "Build a truly autonomous, context-aware personal AI"
   }
-}
 }

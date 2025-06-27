@@ -58,6 +58,36 @@ It also pays homage to *Indica*, the legendary text by Megasthenes 🇮🇳📜.
 
 ## 🧱 Project Structure
 
+```mermaid
+flowchart TD
+    User("👤 User<br/>(Voice Command)") -->|Speech| STT["🗣️ Speech-to-Text<br/>(e.g., Whisper)"]
+    STT -->|Transcript| Parser["🧩 Intent Recognizer<br/>(Command Parser)"]
+    Parser -->|Intent + Params| Decision["⚙️ Decision Engine<br/>(Task Router)"]
+
+    Decision -->|Knowledge Task| RAG["🧠 Retrieval-Augmented Generator<br/>(LLM + Context)"]
+    Decision -->|System Task| SysCtrl["🖥️ System Control<br/>(Apps, Shutdown, Alarms)"]
+
+    RAG -->|Response| TTS["🔊 Text-to-Speech"]
+    SysCtrl -->|Confirm Action| TTS
+
+    TTS -->|Spoken Reply| User
+
+    %% Memory
+    subgraph Memory["🗂️ Memory"]
+        ShortTerm["Short-Term Memory<br/>(Current session logs)"]
+        LongTerm["Long-Term Memory<br/>(Logs + Embeddings)"]
+    end
+    Parser --> Memory
+    RAG --> Memory
+    SysCtrl --> Memory
+
+    %% Notes
+    classDef note fill:#f9f,stroke:#333,stroke-width:1px;
+    note1[/"Single Agent, Retrieval-Augmented, Limited Orchestration"/]:::note
+    note1 --> Decision
+```
+
+
 ```bash
 INDICA/
 ├── ai_engine/

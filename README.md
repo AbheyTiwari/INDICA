@@ -60,31 +60,61 @@ It also pays homage to *Indica*, the legendary text by Megasthenes 🇮🇳📜.
 
 ```mermaid
 flowchart TD
-    User("👤 User<br/>(Voice Command)") -->|Speech| STT["🗣️ Speech-to-Text<br/>(e.g., Whisper)"]
-    STT -->|Transcript| Parser["🧩 Intent Recognizer<br/>(Command Parser)"]
-    Parser -->|Intent + Params| Decision["⚙️ Decision Engine<br/>(Task Router)"]
+    %% Style definitions
+    classDef user fill:#cce5ff,stroke:#003366,stroke-width:2px;
+    classDef speech fill:#d4edda,stroke:#155724,stroke-width:2px;
+    classDef parser fill:#fff3cd,stroke:#856404,stroke-width:2px;
+    classDef decision fill:#f8d7da,stroke:#721c24,stroke-width:2px;
+    classDef rag fill:#e2e3e5,stroke:#383d41,stroke-width:2px;
+    classDef sys fill:#f1e0ff,stroke:#5a005a,stroke-width:2px;
+    classDef tts fill:#d1ecf1,stroke:#0c5460,stroke-width:2px;
+    classDef memory fill:#fefefe,stroke:#343a40,stroke-width:2px,stroke-dasharray:5 5;
 
-    Decision -->|Knowledge Task| RAG["🧠 Retrieval-Augmented Generator<br/>(LLM + Context)"]
-    Decision -->|System Task| SysCtrl["🖥️ System Control<br/>(Apps, Shutdown, Alarms)"]
+    %% User
+    User(["👤 <b>User</b><br/>(Voice Command)"]):::user
 
-    RAG -->|Response| TTS["🔊 Text-to-Speech"]
-    SysCtrl -->|Confirm Action| TTS
+    %% Speech to text
+    STT(["🗣️ <b>Speech-to-Text</b><br/>(Whisper etc.)"]):::speech
 
-    TTS -->|Spoken Reply| User
+    %% Parser
+    Parser(["🧩 <b>Intent Recognizer</b><br/>(Command Parser)"]):::parser
+
+    %% Decision Engine
+    Decision(["⚙️ <b>Decision Engine</b><br/>(Task Router)"]):::decision
+
+    %% Tasks
+    RAG(["🧠 <b>Retrieval-Augmented Generator</b><br/>(LLM + Context)"]):::rag
+    SysCtrl(["🖥️ <b>System Control</b><br/>(Shutdown, Open Apps)"]):::sys
+
+    %% TTS
+    TTS(["🔊 <b>Text-to-Speech</b><br/>(Voice Out)"]):::tts
 
     %% Memory
-    subgraph Memory["🗂️ Memory"]
-        ShortTerm["Short-Term Memory<br/>(Current session logs)"]
-        LongTerm["Long-Term Memory<br/>(Logs + Embeddings)"]
+    subgraph Memory["🗂️ <b>Memory</b>"]
+        ShortTerm(["⏳ <b>Short-Term Memory</b><br/>(Current Session)"]):::memory
+        LongTerm(["🗃️ <b>Long-Term Memory</b><br/>(Logs + Embeddings)"]):::memory
     end
+
+    %% Flows
+    User -->|Voice| STT
+    STT -->|Text| Parser
+    Parser -->|Intent| Decision
+    Decision -->|Knowledge Task| RAG
+    Decision -->|System Task| SysCtrl
+    RAG -->|Answer| TTS
+    SysCtrl -->|Confirmation| TTS
+    TTS -->|Voice| User
+
+    %% Memory connections
     Parser --> Memory
     RAG --> Memory
     SysCtrl --> Memory
 
-    %% Notes
-    classDef note fill:#f9f,stroke:#333,stroke-width:1px;
-    note1[/"Single Agent, Retrieval-Augmented, Limited Orchestration"/]:::note
-    note1 --> Decision
+    %% Note
+    note over Decision
+        Single Agent Architecture<br/>Voice-driven, Retrieval-Augmented
+    end
+
 ```
 
 

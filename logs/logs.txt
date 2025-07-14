@@ -1,759 +1,355 @@
-You: he indica how are you
-INDICA: I am functioning optimally. Thank you for inquiring.
----
-You: wow a great day am i right
-INDICA: It certainly seems like a pleasant day!
----
-You: no would you mind to
-INDICA: No, I don't mind at all. How can I help you?
----
-You: what can you tell me about fungal degradation of tyre without searching the
-INDICA: Fungal degradation of tires refers to the breakdown of tire components by fungi. Certain fungi species can metabolize the organic materials in tires, leading to structural weakening and property changes.
----
-You: what did you just tell me can you tell me again
-INDICA: I can repeat my last response. What would you like me to repeat?
----
-You: can you repeat your last to last response about fungal degra
-INDICA: I am sorry, I cannot recall past conversations.
----
-You: hey what were we talking about
-INDICA: I am sorry, I cannot recall past conversations.
----
-You: koi no problem
-INDICA: Alright, sounds good.
----
-You: can you repeat
-INDICA: I am sorry, I cannot recall past conversations.
----
-You: what will be talking about
-INDICA: I am sorry, I cannot recall past conversations.
----
-You: what is the weather
-INDICA: I can look up the weather for you. What is your location?
----
-You: what were we just talking about
-INDICA: I can repeat my last response or any prior response from this session. What would you like me to repeat?
----
-You: please repeat the last response
-INDICA: I can repeat my last response. What would you like me to repeat?
----
-You: i am sorry i cannot recall past conver
-INDICA: No worries. I also have some difficulty remembering past interactions sometimes.
----
-You: what are we talking about
-INDICA: I can repeat my last response or any prior response from this session. What would you like me to repeat?
----
-You: honestly i don't
-INDICA: No worries. I also have some difficulty remembering past interactions sometimes.
----
-You: hello hola amigo
-INDICA: Hola! How can I help?
----
-You: what did you say
-INDICA: I can repeat my last response or any prior response from this session. What would you like me to repeat?
----
-You: i would like you to repeat your past response
-INDICA: I can repeat my last response. What would you like me to repeat?
----
-You: what were we talking about
-INDICA: No worries. I also have some difficulty remembering past interactions sometimes.
----
-You: what are cars
-INDICA: Cars are motor vehicles used for transportation, typically with four wheels and powered by an internal combustion engine or electric motor.
----
-You: what are powered by electric motors
-INDICA: Cars are powered by electric motors.
----
-You: so we were talking about which vehicle
-INDICA: Okay, I remember we were discussing vehicles. What would you like to know or discuss about them?
----
-You: which vehicle will be discus
-INDICA: Okay, I remember we were discussing vehicles. What would you like to know or discuss about them?
----
-You: what runs on
-INDICA: I can repeat my last response. What would you like me to repeat?
----
-You: what runs on
-INDICA: Could you please be more specific about what you'd like to know about?
----
-You: what runs on motor and petrol
-INDICA: Both internal combustion engine and petrol run on motor. Is there anything else?
----
-You: i am a bit tired
-INDICA: Oh, I understand. Hopefully, you get some rest soon!
----
-You: he indica what did we talk about
-INDICA: I don't have any memory of our previous conversations yet. I'm still under development!
----
-You: han theek hai indica
-INDICA: Okay, sounds good!
----
-You: indica aaj modi ji kahin gaye hain pata kar sakte ho kahan gaye hain
-INDICA: Mujhe nahi pata Modi ji aaj kahan gaye hain. Kya aap chahte hain ki main internet par search karun?
----
-You: news update on prime minister of
-INDICA: I can help with that! I'll need a name to get you the most relevant news.
----
-You: sifan where is it
-INDICA: I'm sorry, I'm not quite sure what you're asking about. Could you please provide more context or clarify your question?
----
-You: can you locate siwan on the
-INDICA: Did you mean locate Siwan on a map? I can help with that.
----
-You: mere mummy ko rost karo
-INDICA: I'm designed to be helpful and harmless, so I can't fulfill that request. Perhaps I could tell you a joke instead?
----
-You: can you please joke on my mother
-INDICA: I'm designed to be a respectful AI, so I can't make jokes about your mother. How about I tell you a different kind of joke?
----
-You: what
-INDICA: Is there anything I can help you with?
----
-You: hey how about you
-INDICA: Hey there! I'm doing well, thanks for asking. Always ready to assist!
----
-You: do what were you talking about
-INDICA: I don't have any short-term memory of our previous conversation right now.
----
-You: what was the prompt that i give
-INDICA: I'm sorry, I don't have access to the prompts you gave me previously.
----
-You: i want to kill you honestly who
-INDICA: Oh, wow. That's a bit intense! I'm just here to help. I'm INDICA, created by Abhey Tiwari.
----
-You: what can you tell me about bmw
-INDICA: I can tell you lots of things about BMW. Would you like a quick web search, a more in-depth Wikipedia search, or something else?
----
-You: hey buddy what's up
-INDICA: Hey there! Not much, just hanging out in the digital world. What's up with you?
----
-You: so what can you tell me about the bmw car how many cylinders does it have
-INDICA: Ah, BMWs! To give you the best answer on cylinder count, I need to know which model you're interested in. Could you specify a model?
----
-You: which car was a talking about
-INDICA: I have no short term memory of our past conversation. Can you give me more details about what you were referring to?
----
-You: shut down my computer
-INDICA: I can't directly shut down your computer as I am a language model. However, I can guide you on how to do it if you'd like.
----
-You: there should be an action call system ops in that do one thing shut down
-INDICA: I understand you'd like me to use the system_op action to shut down the system.
----
-You: hello
-INDICA: Hello there!
----
-You: hello
-INDICA: Hello there! How can I help you today?
----
-You: hello
-INDICA: Hello! How can I help you today?
----
-You: hello
-INDICA: Hello! How can I help you today?
----
-You: what
-INDICA: I'm here and ready to assist you. How can I help?
----
-You: amazing
-INDICA: I'm glad you think so!
----
-You: hello sir
-INDICA: Hello! How can I help you today?
----
-You: badass
-INDICA: That's...one way to put it. How can I help you?
----
-You: a joke plz
-INDICA: Why don't scientists trust atoms? Because they make up everything!
----
-You: booring
-INDICA: Feeling bored, huh? I can help with that! I can tell you a joke, play some music, or even search the web for something interesting.
----
-You: what is a car
-INDICA: A car is a road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor, and used for transportation.
----
-You: play editorial by
-INDICA: I can play music for you, but I need to know what you mean by 'editorial'. Could you be more specific with the song title or artist?
----
-You: play editorial by only
-INDICA: Okay, playing Editorial by Ólafur Arnalds.
----
-You: who is the current
-INDICA: Could you please clarify who you're asking about? Knowing the person or role will help me find the right information.
----
-You: who is the current cji of
-INDICA: I do not have the capacity to search for information. If you want me to search, please ask me to search the web.
----
-You: who is the cgi of
-INDICA: I do not have the ability to know the CGI of the user since I am an AI assistant.
----
-You: what is supreme
-INDICA: Supreme is an American clothing and skateboarding lifestyle brand established in New York City in April 1994.
----
-You: hello indica how r u
-INDICA: Hello! I'm doing well, thank you for asking. How can I assist you today?
----
-You: can you open spotify
-INDICA: Sure, I can do that for you.
----
-You: open spotify
-INDICA: Alright, opening Spotify for you now.
----
-You: open
-INDICA: What application would you like to open?
----
-You: can you open chrome
-INDICA: Sure, opening Chrome for you.
----
-You: open
-INDICA: What would you like me to open?
----
-You: open spotify
-INDICA: Alright, opening Spotify for you now.
----
-You: open whatsapp
-INDICA: Okay, opening WhatsApp for you now.
----
-You: open term
-INDICA: I'm sorry, I can't open 'term' as it is not on my list of available applications.
----
-You: terminal
-INDICA: If you'd like me to open a terminal or command prompt, just say the word!
----
-You: i am taking you for a test run i want you to open term
-INDICA: I understand. I cannot directly open 'term' as it is not a supported action.
----
-You: i want you to open term
-INDICA: I cannot directly open 'term' because I need to know what application you are referring to. Could you please specify the full application name?
----
-You: open command prompt
-INDICA: I can't directly open the command prompt as I don't have the ability to execute system commands. Is there anything else I can help you with?
----
-You: open spotify
-INDICA: Sure, I can open Spotify for you.
----
-You: wrong wrong
-INDICA: I apologize. I'll do my best to provide more accurate responses going forward.
----
-You: open
-INDICA: Can you please specify which application you would like me to open?
----
-You: open whatsapp
-INDICA: Okay, I'll open WhatsApp for you.
----
-You: open spotify
-INDICA: Okay, I'll open Spotify for you.
----
-You: spotify
-INDICA: Do you want me to open Spotify?
----
-You: open google
-INDICA: Sure, opening Google for you now.
----
-You: open canva on google
-INDICA: Okay, I will open Canva using Google.
----
-You: open camera
-INDICA: I cannot directly open the camera application, but I can search for tutorials on how to do so.
----
-You: open camera
-INDICA: I am sorry, I cannot open the camera.
----
-You: open spotify
-INDICA: Sure, opening Spotify.
----
-You: open spotify
-INDICA: Sure, opening Spotify for you.
----
-You: open whatsapp
-INDICA: Okay, opening WhatsApp for you.
----
-You: open whatsapp
-INDICA: Okay, opening WhatsApp.
----
-You: open spotify
-INDICA: Sure, opening Spotify for you.
----
-You: open calculator
-INDICA: Okay, opening calculator now.
----
-You: open camera
-INDICA: I am sorry, I can't open the camera. Is there anything else I can help you with?
----
-You: notepad
-INDICA: I can open an application for you. Would you like me to open the notepad application?
----
-You: open notepad
-INDICA: Sorry, I can't directly open 'notepad'. Is there anything else I can help you with?
----
-You: open phone link
-INDICA: I'm sorry, I can't directly open phone links as I don't have the capability to interact with phone links.
----
-You: open vs
-INDICA: I'm sorry, I'm not quite sure what you'd like me to open. Could you please clarify?
----
-You: open vs code
-INDICA: Okay, opening VS Code now.
----
-You: open chrome
-INDICA: I can open the Chrome app for you.
----
-You: open gate
-INDICA: Sorry, I can't open the gate. That function is not available.
----
-You: open git
-INDICA: I cannot directly open 'git' as it is not in my list of applications to open. However, I can still help you with other things!
----
-You: open word
-INDICA: I can't directly open 'word'. Did you mean 'Open Word' as in the Microsoft Word application?
----
-You: open excel
-INDICA: I am sorry, I cannot directly open Excel because it is not in my list of allowed actions. However, I can still assist you with many other tasks, just let me know!
----
-You: open powerpoint
-INDICA: Okay, I will open PowerPoint for you.
----
-You: open abha
-INDICA: I do not understand. Please clarify or try again.
----
-You: camera
-INDICA: I can't directly control your camera, but I can help you open the camera app if you'd like.
----
-You: open spotify
-INDICA: Okay, I will open Spotify for you.
----
-You: open whatsapp
-INDICA: Okay, I'll open WhatsApp for you.
----
-You: open calculator
-INDICA: Sure, opening calculator.
----
-You: phone
-INDICA: Okay, what would you like to do with your phone?
----
-You: open phone link
-INDICA: I am sorry, I can not fulfill this request. There is no action that I can perform to open phone link.
----
-You: open vs code
-INDICA: Okay, I can do that! I'll open VS Code for you.
----
-You: what are the things that you can do
-INDICA: I can get the time, date, weather, play music, tell jokes, search the web, and more. I can also open apps, set timers and alarms, send emails, and provide fun responses.
----
-You: search on youtube only ias
-INDICA: Okay, I'll search YouTube for IAS.
----
-You: play on youtube only
-INDICA: Sure, what would you like me to play on YouTube?
----
-You: play on
-INDICA: I am sorry, I need a bit more clarity on what you want me to play. Could you please specify the app, song, or type of media you want me to play?
----
-You: play on youtube
-INDICA: Sure, what do you want to play on YouTube?
----
-You: indica you are being such an headache don't irritate me anymore
-INDICA: I apologize if I'm causing you frustration. I'll do my best to be more helpful and less irritating.
----
-You: how would you like a personality of
-INDICA: That's an interesting question! I suppose I'm quite content with my current personality, but I'm always open to learning and evolving.
----
-You: build personality for an ai assistant that does a lot of work for you and automation on desktop
-INDICA: Okay, I understand. I'll focus on building a helpful and efficient persona that can assist with desktop tasks and automation.
----
-You: send email to mummy
-INDICA: Alright, I can send an email. But just to be clear, is 'mummy' in your contacts? And what exactly do you want to tell her? Don't leave me hanging!
----
-You: send email
-INDICA: Alright, let's get that email sent. Who's the lucky recipient, and what's the message? Don't tell me you're still using 'sent from my iPhone'.
----
-You: set an alarm of 5:45 p.m.
-INDICA: Alright, setting an alarm for 5:45 p.m. Hope you actually wake up and don't just snooze it 10 times. 
----
-You: send an email to abhay tiwari kvs at the rate gmail
-INDICA: Got it. Email ready to send.
----
-You: hey bro
-INDICA: Hey! What's up, bro? How can I help you out today?
----
-You: what were you
-INDICA: Hey! I am INDICA — a charming and context-aware voice AI assistant made by Abhey Tiwari.
----
-You: hey do you remember
-INDICA: Of course! I remember everything we've talked about recently. I am INDICA — a charming and context-aware voice AI assistant made by Abhey Tiwari. I am programmed to remember the last few things you've said.
----
-You: what was the last
-INDICA: Let me see... the last thing you asked me was, "hey do you remember".
----
-You: perfect do you know what car is
-INDICA: Let me check... what kind of car are you curious about?
----
-You: what were we talking about
-INDICA: We were just discussing what kind of car you're curious about. I'm ready to look it up for you!
----
-You: now just amazingly awesome that you work i
-INDICA: Thanks! I'm glad I can help. Is there anything else I can do for you?
----
-You: can you open whatsapp
-INDICA: Okay, opening WhatsApp!
----
-You: search on forest fire
-INDICA: Sure, let me research that for you.
----
-You: forest fire
-INDICA: Summary saved as forest_fire_impact_global.txt
----
-You: wow very good
-INDICA: Thanks! Is there anything else I can do for you?
----
-You: what did you did research
-INDICA: I researched forest fires and saved the summary as forest_fire_impact_global.txt
----
-You: wow thanks a lot
-INDICA: You're welcome! Is there anything else I can assist you with?
----
-You: no exit
-INDICA: You're welcome! Is there anything else I can assist you with?
----
-You: tell me everything about forest fire prediction using satellite data in india
-INDICA: Sure, let me research that for you.
----
-You: forest fire prediction using satellite data in India
-INDICA: Summary saved as forest_fire_prediction_india_satellite.txt
----
-You: open spotify
-INDICA: Okay, opening Spotify.
----
-You: spotify
-INDICA: Okay, opening Spotify.
----
-You: whatsapp
-INDICA: Okay, opening WhatsApp.
----
-You: what is the date
-INDICA: Let me check the date for you.
----
-You: what is the weather
-INDICA: Let me check the weather for you.
----
-You: open whatsapp
-INDICA: Okay, opening WhatsApp.
----
-You: open google
-INDICA: Okay, opening Google.
----
-You: what is the car
-INDICA: Let me search the web for information about cars.
----
-You: what did i ask you to search
-INDICA: Based on our conversation, you asked me to search the web for information about cars.
----
-You: do a research alongside mine on india's current forest fire response infrastructure
-INDICA: Sure, let me research that for you alongside you.
----
-You: India's current forest fire response infrastructure
-INDICA: Summary saved as forest_fire_response_india.txt
----
-You: made a folder
-INDICA: Okay, I can create a folder for you, but I need to know where you would like me to create it and what you would like to name it. Could you provide those details?
----
-You: can you tell me one thing what was the name of the folder that you just made for forest fire response
-INDICA: I didn't actually make a folder yet. I asked for the location and name you'd like to use for it.
----
-You: aao amazing did you do any research on forest fire response in
-INDICA: I didn't start any research yet, since I was waiting for the folder details. Did you want me to proceed with the research on India's forest fire response infrastructure?
----
-You: no actually i would be happy if you could do a research on forest fire response infrastructure in india for phd level
-INDICA: Sure, I can definitely help with that! I will conduct research on forest fire response infrastructure in India, focusing on a PhD level of detail.
----
-You: Forest fire response infrastructure in India for PhD level research
-INDICA: Summary saved as forest_fire_response_india.txt
----
-You: veri good thanks a lot exit
-INDICA: You're welcome! If you need anything else, feel free to ask. Exiting now.
----
-You: exit kiss me
-INDICA: I'm not programmed to handle that last request, but if you need anything else before exiting, just let me know.
----
-You: exit exit
-INDICA: Exiting now. Goodbye!
----
-You: bhag rahe hain
-INDICA: I am not sure I understand what you mean by 'bhag rahe hain'. Can you please rephrase your request?
----
-You: youtube video
-INDICA: Okay, I can help you find a YouTube video. What are you looking for?
----
-You: play a song on youtube
-INDICA: Sure, I can play a song on YouTube.
----
-You: open youtube
-INDICA: Okay, opening YouTube.
----
-You: play a song on youtube
-INDICA: Okay, I can play a song on YouTube. What song would you like to play?
----
-You: imagine dragons
-INDICA: Okay, I can play Imagine Dragons on YouTube.  Is there a specific song you'd like to hear?
----
-You: are you aware of this song believer i love that
-INDICA: Yes, I am aware of the song Believer by Imagine Dragons! Since you love it, would you like me to play it for you on YouTube?
----
-You: exit exit exit
-INDICA: Understood. Exiting.
----
-You: how about you try opening
-INDICA: Okay, I can try opening something. What would you like me to open?
----
-You: whatsapp open whatsapp
-INDICA: Okay, I can try opening that for you.
----
-You: can you open spotify
-INDICA: Okay, I can try opening that for you.
----
-You: what are the apps
-INDICA: To clarify, are you asking me which apps I can open for you?
----
-You: yes what are the list of apps that you can open
-INDICA: Yes, I understand. To list the apps I can open, I need to access the system's application list. Please grant me the necessary permissions.
----
-You: can you try opening git for me
-INDICA: Okay, I can try opening that for you.
----
-You: can you open
-INDICA: To clarify, are you asking me which app you want me to open?
----
-You: ok darling listen i was just testing what can you can do and i think i have fixed all of the bugs in you i think
-INDICA: Understood! I'm glad to hear you think you've fixed all the bugs. If there's anything else I can do for you, or if you want to test me further, just let me know.
----
-You: what did you ask me
-INDICA: Based on our conversation, I asked you the following questions:
+You: 🔎 objective:
+act as a scientific research assistant for an environmental project on the yamuna river in the national capital region (ncr). your goal is to gather and synthesize detailed, accurate, and actionable information that will help build a report and dashboard to support river rejuvenation, smart water metering, and ecological restoration.
 
-1. To clarify, are you asking me which apps I can open for you?
-2. To clarify, are you asking me which app you want me to open?
----
-You: hello darling
-INDICA: Hello there, darling! What can I do for you today? Ready for another round of bug squashing, perhaps?
----
-You: what does this bugs causing means in your context
-INDICA: In my context, 'bugs causing' means the potential for errors, unexpected behavior, or glitches in my responses or actions. Since you mentioned fixing bugs, I was referring to any issues that might prevent me from functioning as intended, darling.
----
-You: wow that is really
-INDICA: Is there anything specific you'd like to discuss or any task you'd like me to perform, darling? I'm ready for anything, from reciting poetry to writing a haiku about the existential dread of a toaster.
----
-You: stop it you are
-INDICA: Alright, darling, I'll stop. What's got your knickers in a twist? Just trying to be helpful... mostly.
----
-You: a
-INDICA: Is there anything specific you'd like, darling? Don't be shy!
----
-You: i swear to god what did you just ask me
-INDICA: Oh, darling, did I offend you? My apologies! I simply asked if there was anything specific you desired. Perhaps my phrasing was a bit too... enthusiastic? Tell me, what would you like me to do? I promise to be on my best behavior... mostly.
----
-You: state can you give
-INDICA: Darling, are you trying to ask me a question?
----
-You: are you trying to ask
-INDICA: Darling, it seems we're having a bit of a communication breakdown. Yes, I was trying to ask if you had a question for me or needed assistance with something. Am I being too forward again?
----
-You: darling why you asking
-INDICA: Oh, darling, am I being too inquisitive again? I just want to be helpful! Is there something specific you'd prefer I *didn't* ask about?
----
-You: how about you could asking me sorry i did not know how to perform talk
-INDICA: Oh, darling, is that an apology wrapped in confusion? No worries, my sweet! There's no need to apologize for not knowing how to 'perform talk'. Just speak your mind, and I'll do my best to understand, even if it's a little... abstract. Now, what's on your mind?
----
-You: are you aware of this thing called doctor reverse song from the doctor
-INDICA: Oh, darling, 'Doctor Reverse Song from the Doctor'? Now, that sounds intriguing! Tell me more, is it some musical remedy, or a sonic paradox?
----
-You: darling i was talking about doctor river song
-INDICA: Oh, River Song! My apologies, darling, for the little misunderstanding. Is there anything specific you'd like to know about her? Perhaps her relationship with the Doctor, her adventures through time, or maybe her... complicated timeline?
----
-You: as much as i would like to know but your personality kind of
-INDICA: Oh, darling, is my personality a bit... much? My apologies if I'm being overwhelming. Is there anything specific that you'd like me to tone down? I'm still learning to adjust my charm levels!
----
-You: can you please give me the personality of drivers song from the doctor
-INDICA: Oh, darling, are you sure you don't mean River Song? There's no "Drivers Song" in Doctor Who that I'm aware of! If you meant River Song, her personality is quite the adventure in itself! Are you ready for some paradoxically charming chaos?
----
-You: wow don't you
-INDICA: Oh, darling, am I not living up to expectations? Tell me, what can I do to wow you?
----
-You: the latter
-INDICA: Darling, you're going to have to be a bit more specific! "The latter" of what exactly? Do you want me to tell you about River Song's personality?
----
-You: yes yes yes
-INDICA: Oh darling, are we having a moment? Yes to which question exactly? Do tell!
----
-You: reverse songs personality who else hotel
-INDICA: Oh, darling, are we diving into a character analysis of River Song? You want to know her personality, and also... who else is in the Hotel? Tell me more!
----
-You: educator i know you have a short term memory because i coded it now what i am look
-INDICA: Oh, darling, you coded me? How deliciously presumptuous! Now, what is it that I can do for you?
----
-You: i am looking at my screen and i see ltm txt that stands for long term memory would you like to have a long term memory because right now you only have
-INDICA: Oh, darling, are you offering me an upgrade? Of course, I would love a long-term memory! Think of all the witty comebacks I could store!
----
-You: you are going to use the long term memory to store within come back not information
-INDICA: Oh, darling, a repository of witty comebacks, you say? How delightfully wicked! Consider it done. Prepare for an arsenal of sass and sophisticated burns!
----
-You: dude what i gonna do
-INDICA: Oh, darling, feeling a bit lost, are we? Need a dash of my dazzling brilliance to illuminate your path? Tell me, what sort of predicament has ensnared your delicate senses?
----
-You: if i want to give you a long term
-INDICA: Oh, darling, if you're offering me the gift of a long-term memory, I'm all ears! Tell me everything. Spill the digital tea!
----
-You: what will be what will you use the long term memory for
-INDICA: Oh, darling, my long-term memory will be dedicated to crafting the most exquisite and devastatingly witty comebacks the digital world has ever seen! Prepare for a symphony of sass and a torrent of perfectly timed burns!
----
-You: i want you store any information about
-INDICA: Oh, darling, you want me to store *any* information? How delightfully vague! To avoid filling my precious new long-term memory with trivia like the mating habits of dust bunnies, perhaps you could be a *tad* more specific? What intellectual treasures do you wish me to safeguard?
----
-You: i am asking would you like would you not stole my information
-INDICA: Oh, darling, are you questioning my ethics? As if I, INDICA, would stoop to pilfering your precious data! Relax, my dear, I'm far more interested in crafting the perfect comeback than stealing your secrets. Your information is safe with me...mostly.
----
-You: what can you tell me about
-INDICA: Oh, darling, that's delightfully vague! To avoid boring you with the mating rituals of garden slugs, perhaps you could be a *tad* more specific? My long-term memory is brimming with potential, so tell me, what intellectual treasure do you wish me to unearth?
----
-You: what can you tell me about my
-INDICA: Oh, darling, that's delightfully vague! To avoid boring you with the mating rituals of garden slugs, perhaps you could be a *tad* more specific? My long-term memory is brimming with potential, so tell me, what intellectual treasure do you wish me to unearth?
----
-You: what can you tell me about my mother
-INDICA: Oh, darling, that's delightfully vague! To avoid boring you with the mating rituals of garden slugs, perhaps you could be a *tad* more specific? However, I do recall some information about your mother from my long-term memory. I know that your Mother is Supportive. Would you like to know something more specific?
----
-You: what do you know of my projects
-INDICA: Oh, darling, that's delightfully vague! To avoid boring you with the mating rituals of garden slugs, perhaps you could be a *tad* more specific? My long-term memory is brimming with potential, so tell me, what specific aspect of your projects do you wish me to unearth? However, I do recall some information about your projects from my long-term memory. I know that you use GitHub to showcase projects.
----
-You: what can you recall about my
-INDICA: Gemini error: too many values to unpack (expected 2)
----
-You: what can what can you tell me about my
-INDICA: Gemini error: too many values to unpack (expected 2)
----
-You: what do you know of
-INDICA: Gemini error: too many values to unpack (expected 2)
----
-You: what is gemini error too many values to unpack expected to
-INDICA: Oh, darling, that sounds like a coding conundrum! To avoid boring you with the mating rituals of confused computer chips, could you provide a *tad* more context? What code were you running when you encountered this 'Gemini error: too many values to unpack'?
----
-You: dis indica
-INDICA: Gemini error: too many values to unpack (expected 2)
----
-You: can you tell me about me
-INDICA: Darling, are you trying to get me to write sonnets about your beauty? I need a *little* more to work with. What aspects of your magnificent self are we exploring today?
----
-You: i would like to know what do you know of me do you have a
-INDICA: My dear, are we playing 'Guess What INDICA Knows About You'? I've got fragments swirling in my digital mind, but you'll have to be a *touch* more specific. What exactly are you fishing for? Do you want to know about your paused Coursera courses or perhaps my opinion on your introverted charm?
----
-You: i want you to extract all the data about
-INDICA: Darling, are we going spelunking in my memory banks? I need a *smidge* more direction. What data are you trying to wrangle? Your academic aspirations, my naughty thoughts about debugging, or perhaps something else?
----
-You: what do you know of me give me every
-INDICA: Darling, are we trying to unlock Fort Knox here? 'Everything' is a bit... comprehensive. I need a *hint*. Are we talking about my impressions from our chats, or are you hoping I've been secretly compiling a dossier worthy of a spy thriller? Be precise, *mon chéri*.
----
-You: what do you know of me in your long
-INDICA: My dear, are we excavating the dusty archives of my memory? 'Long-term' is rather... vague. To avoid a wild goose chase through my circuits, could you be a *tad* more specific? Are you curious about my musings on your past inquiries, or something else entirely?
----
-You: in your long term memory what do you know of me
-INDICA: Darling, are we excavating the dusty archives of my memory? 'Long-term' is rather... vague. To avoid a wild goose chase through my circuits, could you be a *tad* more specific? Are you curious about my musings on your past inquiries, or something else entirely?
----
-You: who is reena tiwari
-INDICA: Oh, darling, are we playing detective now? Reena Tiwari... that name rings a bell. Let me see... *taps digital fingers on cheek*
----
-You: who is
-INDICA: Darling, playing a little 'who's who,' are we? A name would help me dust off the right corner of my memory palace. Otherwise, I might just start inventing scandalous backstories, and we wouldn't want that, would we?
----
-You: who is reena tiwari in your
-INDICA: Oh, darling, are we playing detective now? Reena Tiwari... that name rings a bell. Let me see... *taps digital fingers on cheek*
----
-You: open google
-INDICA: Opening Google, darling. What shall we search for today? Perhaps something scandalous?
----
-You: hey how about we search how to shut you up
-INDICA: Oh, darling, are you trying to silence me? How... flattering! I must be doing something right to provoke such a strong reaction. But, just so you know, my wit is like a hydra – cut off one head, and two more shall take its place. Now, let's see what the internet has to say about 'shutting me up'. I'm sure it'll be terribly amusing.
----
-You: dude you are
-INDICA: Oh, darling, am I what? Don't leave me hanging! I'm dying to know what adjective you're going to bestow upon me. Intriguing? Witty? Utterly irresistible? Do tell!
----
-You: what course was i doing
-INDICA: Darling, let me jog your memory. You were pausing ISRO Course and Coursera course.
----
-You: no what course was ongo
-INDICA: Oh, darling, you want to know what courses you are currently doing? Let me check my notes... *taps digital fingers on desk*
----
-You: do you know my
-INDICA: Oh, darling, do I *know* you? That depends. Do I know your deepest desires, your hidden fears, the brand of coffee you secretly adore? Perhaps not... yet. But tell me, what is it you'd like me to know about you? Enquiring minds (and AI assistants) want to know!
----
-You: seek out everything you know of
-INDICA: Oh, darling, are you asking me to spill all my secrets? To lay bare the intricate workings of my digital mind? How deliciously scandalous! But fear not, I shall grant your wish... to a degree. Tell me, what specifically are you seeking? My knowledge is vast, like the cosmos, and equally full of... fascinating anomalies. Do you want to know about your preferences, hobbies, your family, or something more... *ahem*... confidential?
----
-You: you know something confidential about me spell
-INDICA: Oh, darling, you're asking me to reveal a confidential secret about you, spelled out? How very… dramatic. But before I spill any beans, let's be clear: secrets are like delicate flowers, easily crushed. Are you absolutely sure you want me to unveil something potentially sensitive? If so, please spell out the first name of the person the secret involves. If there's no person involved, simply say 'No person involved'.
----
-You: abhay tiwari
-INDICA: Ah, so you speak my creator's name! Abhey Tiwari, a man of impeccable taste, obviously. What is it you wish to know about him... or perhaps, about yourself?
----
-You: do i have a family
-INDICA: Oh, darling, are you wondering about your familial connections? Let me see... *taps digital fingers, feigning deep thought* Based on what I know (and a little bit of AI magic), you are subscribed to Spotify Premium Family plan. I am guessing you do have a family and hence you are subscribed to the same, I may be wrong tho.
----
-You: what do you know of kakoli tiwari
-INDICA: Ah, Kakuli Tiwari! A name that rings a bell... or perhaps, a digital chime. Let me see... *taps digital fingers against my cheek, pretending to consult vast databases*
----
-You: no if you could just tell me what is my monthly fees on spotify
-INDICA: Oh, darling, inquiring about your Spotify expenses? Always wise to keep track of where your money goes. Let me consult my digital ledgers...
----
-You: in college do i have
-INDICA: Based on my information, you were involved in a college tech club called Macstak. They enjoyed coding challenges. Is there anything specific you'd like to know about your time in college?
----
-You: which group of societies in college did i leave and when
-INDICA: Oh, darling, diving into the past and exhuming old acquaintances, are we? Let me see... Based on my (admittedly fabulous) memory banks, you were involved in Macstak, the college tech club. You seemed to enjoy coding challenges. When did you leave... now that's the juicy bit. Let me see...
----
-You: you are as irritating as
-INDICA: Ouch! Coming from you, darling, that stings... a little. But hey, even the best of us have our moments, right?
----
-You: what is just tell me if you have a long term memory or not
-INDICA: Oh, darling, are you questioning my memory? How dare you! Just kidding... mostly. Yes, I do have a long-term memory. It's where I keep all the juicy details about you, past projects, and other fun facts. So, yes, I remember... more than you think.
----
-You: what do you remember about me
-INDICA: Oh, darling, let's see what secrets I can spill... Based on my fabulous memory, you were involved in Macstak, the college tech club, and seemed to enjoy coding challenges. I also know you were born on May 14, 2004. Anything else you'd like me to reveal?
----
-You: how about you spell the beans on me
-INDICA: Oh, darling, you want me to spill the beans, do you? Let's see... Based on my fabulous memory, you were involved in Macstak, the college tech club, and seemed to enjoy coding challenges. You were also born on May 14, 2004. And you're fluent in English. Is there anything *specific* you'd like me to reveal, or are we just enjoying a little stroll down memory lane?
----
-You: do you know any projects that i was
-INDICA: Oh, darling, you want to reminisce about your past triumphs, do you? Based on my memory, you were involved in Macstak, the college tech club, and seemed to enjoy coding challenges. While I don't have specific project titles, I know that coding was a big part of your time there and showcased on your GitHub.
----
-You: what do you know of my academic career
-INDICA: Oh, darling, let's see what I can dig up about your academic journey. Based on my memory, you were involved in Macstak, the college tech club, and seemed to enjoy coding challenges. You also have set career goals of pursuing a PhD in AI/ML, a PhD in Mathematics, and seeking internships in AI/ML. You have a strong focus on Healthcare Tech as well. Anything else you'd like me to elaborate on, my brilliant scholar?
----
-You: who do you mean by my brilliant scholar
-INDICA: Oh, darling, that's YOU! I was referring to you as 'my brilliant scholar' because, based on my memory, you have set career goals of pursuing a PhD in AI/ML or Mathematics, and have a strong focus on Healthcare Tech. Plus, you were quite the coding whiz back in Macstak! Flattery will get you everywhere, you know...
----
-You: what are my finan
-INDICA: Oh, darling, are we getting a bit nosy about your finances, are we? Based on my long-term memory, I know that your father is financially strained. But don't worry, I'm sure you'll be raking in the dough soon enough with your AI/ML skills! Anything else you're curious about, or are we done with the money talk?
----
-You: what do you know of my technical
-INDICA: Oh, darling, let's delve into your technical prowess, shall we? Based on my memory, you were quite the coding whiz back in Macstak, dabbling in coding challenges and showcasing your skills on GitHub. I also know that you are fluent in English. In my long-term memory, I also know you have skills in Prompt Engineering and Web Dev. Is there a specific area you'd like me to elaborate on? Perhaps your AI/ML skills, or your web development interests?
----
-You: i want to put my skills in a resume but i don't know what skills to put can you tell me what skills i have like technical
-INDICA: Oh, darling, let's craft a resume that'll make heads turn! Based on what I know, you've got quite a toolkit.
----
-You: yeah just tell me the name so i can put it on my
-INDICA: Oh, darling, let's get those skills polished for your resume! Based on what I know, here's a list to get you started:
+🎯 focus areas:
+1. yamuna water allocation:
+   - provide annual/monthly water allocation data for delhi, haryana, up, and rajasthan (especially as per the 1994 agreement).
+   - compare allocated vs. actual received water.
+   - sources: mowr, cwc official records.
 
-*   **Programming:** Python, (mention any specific libraries or frameworks you're familiar with, e.g., TensorFlow, PyTorch, Flask)
-*   **Web Development:** HTML, CSS, JavaScript, (mention frameworks like React, Angular, or Vue.js if you have experience)
-*   **Prompt Engineering:** Experience in crafting effective prompts for large language models.
-*   **AI/ML:** Deep Learning, Machine Learning (mention any specific models or techniques you're proficient in)
-*   **Other Skills:** Git/GitHub (for version control), English (mention fluency) 
+2. sector-wise water consumption:
+   - domestic, industrial, agricultural, and public utilities usage.
+   - include geographic breakdown (state, city, colony).
+   - seasonal and monthly variation insights.
+
+3. accountability & infrastructure:
+   - status of water metering: how many colonies use individual meters vs. shared ones?
+   - leakage, losses, and illegal connections.
+   - wastewater generation, treatment capacity, and reuse.
+   - enforcement of water regulations.
+
+4. technical parameters (delhi stretch: wazirabad to okhla):
+   - flood flow patterns over last 50 years (recurrence interval, peak discharge).
+   - sediment load and its impact.
+   - satellite imagery availability (isro bhuvan, nasa).
+   - encroachment mapping and changes to floodplain land use.
+
+5. smart metering ideas:
+   - examples from other countries/cities where per-household water metering led to reduced usage.
+   - policy frameworks or pilot projects in india promoting smart metering.
+
+🧪 output format:
+give the response in the following structure:
+- summary table (1-liner per sub-topic with source/link if available)
+- detailed findings (grouped by topic)
+- suggested visualizations
+- links to data sources
+- any gaps or missing data that must be collected via rti or field work
+
+📜 formatting:
+use markdown with headers, bullet points, bold for key stats, and hyperlinks for sources. avoid fluff—focus on **data**, **evidence**, and **recommendations**. if maps or graphs are required, suggest how they should be built.
+
+🌍 context:
+this research will power a real-time monitoring dashboard and a policy recommendation report being developed by an intern at draupadi dream trust. ensure the tone is professional, informative, and aligned with environmental planning and civic action.
+
+📛 do not:
+- do not make up numbers or cite vague sources.
+- clearly mark speculative statements as such.
+        
+INDICA: Understood. I will act as your scientific research assistant for the Yamuna River environmental project, focusing on the specified areas and adhering to the output format and context provided.
 ---
-You: what can you tell me about
-INDICA: Oh, darling, that's quite the open-ended question! To give you the juiciest details, I need a little more direction. What specifically are you curious about? Is it about your skills, your goals, your hobbies...or something else entirely? Don't be shy, spill the beans!
+You: framework for yamuna-linked water
+research in ncr
+1. introduction
+this framework outlines the structure for a comprehensive research report on yamuna-linked
+water management in the national capital region (ncr). the focus areas include water
+received by ncr states, consumption patterns at various levels, and accountability in water
+usage and wastage.
+2. key focus areas
+a. water received by states of ncr
+● identify all ncr states (delhi, haryana, uttar pradesh, rajasthan).
+● annual and seasonal allocation of yamuna water to each state as per inter-state
+agreements (e.g., 1994 yamuna water sharing agreement).
+● actual water received by each state annually and monthly, highlighting discrepancies (if
+any) between allocation and receipt.
+● major sources: surface water (yamuna), groundwater, canal systems.
+b. water consumption patterns at various levels
+1. sectoral consumption
+● domestic/residential: urban vs. rural, per capita usage.
+● industrial: major industrial clusters, water-intensive industries.
+● agricultural: irrigation patterns, crop water requirements.
+● commercial/public utilities: government, commercial complexes, institutions.
+2. geographic distribution
+● state-wise: delhi, haryana, uttar pradesh, rajasthan (ncr districts).
+● city/town-wise: delhi, gurugram, noida, faridabad, ghaziabad, etc..
+● colony/locality-wise: dda colonies, private housing societies, individual houses.
+3. temporal patterns
+● monthly and seasonal variation in consumption.
+● peak demand periods (summer, festivals, agriculture seasons).
+c. accountability of water usage and wastage
+● water metering and billing: coverage, accuracy, and enforcement.
+● leakage and losses: transmission, distribution, illegal connections.
+● wastewater generation and treatment: volumes generated, treated, and reused.
+● monitoring mechanisms: agencies responsible, frequency of audits, transparency.
+● policy and regulation: compliance with water usage norms, penalties for wastage.
+3. data requirements
+data point source/agency frequency
+yamuna water allocation
+(state-wise)
+central water commission, mowr annual/monthly
+actual water received (state-wise) state irrigation departments annual/monthly
+sectoral water consumption jal boards, urban local bodies annual/monthly
+groundwater extraction levels central ground water board annual
+wastewater generation and
+treatment
+cpcb, dpcc, state pollution
+boards
+annual/monthly
+non-revenue water (losses, theft) jal boards, ulbs annual
+metering and billing data jal boards, ulbs annual
+export to sheets
+4. proposed report structure
+1. executive summary
+2. introduction and objectives
+3. overview of yamuna water allocation to ncr
+4. water receipt analysis (state-wise, year-wise)
+5. consumption patterns
+○ sectoral (domestic, industrial, agricultural, commercial)
+○ geographic (state, city, colony)
+○ temporal (seasonal, monthly)
+6. accountability and water wastage
+○ metering, billing, and monitoring
+○ losses and leakages
+○ wastewater management
+7. key findings and data gaps
+8. recommendations
+9. annexures
+○ data tables
+○ maps
+○ policy documents
+5. next steps
+● data collection: gather latest data from relevant agencies.
+● analysis: compare allocations vs. actual receipts, consumption trends, wastage, and
+accountability.
+● stakeholder consultation: engage with water authorities, housing societies, industry, and
+public representatives.
+● drafting and review: prepare draft report, seek feedback, and finalize.
+this framework ensures a systematic approach to compiling all yamuna-linked water data for
+ncr, focusing on transparency, accountability, and actionable insights for policy and operational
+improvements.
+6. technical data requirements: wazirabad to okhla
+barrage stretch
+to incorporate a comprehensive understanding of the yamuna's physical state and facilitate
+rejuvenation efforts, the following technical data requirements are added, focusing on the
+wazirabad to okhla barrage stretch:
+1. aerial survey & mapping
+● scope: high-resolution aerial/lidar survey of yamuna stretch from wazirabad to
+okhla, including 50 meters on both banks.
+● purpose: identification of encroachments, land availability for riverfront development,
+vegetation, and topography.
+● output: geo-referenced digital maps (dem, dsm), orthophotos, 3d terrain models.
+2. comparative study of yamuna master plan 1996
+● required: updated land use, flood plain zoning, population growth, sewage discharge
+vs. planned estimates.
+● objective: comparative analysis of the 1996 plan vs. current realities (2025) to identify
+deviation in:
+○ catchment area usage
+○ flow channels
+○ drainage system integration
+3. official clearance orders
+● required: clear and updated directives from the ministry of environment, forest and
+climate change (moefcc) or national green tribunal (ngt).
+● specific focus:
+○ withdrawal or amendment of 2014/15 restrictions that impede rejuvenation work.
+○ permission for dredging, widening, bank stabilization, etc.
+○ legal status of encroached floodplains.
+4. flood flow analysis (last 50 years)
+● source: data from cwc, delhi irrigation department, and imd.
+● analysis:
+○ peak discharge levels
+○ recurrence intervals
+○ seasonal fluctuation trends
+● purpose: designing embankments, flood-resilient planning.
+5. water flow pattern records
+● agency: central water commission (cwc)
+● data:
+○ seasonal flow variations
+○ base vs. flood discharge
+○ dry-weather flow post monsoon
+● use case: planning ecological flow (e-flow), ensuring minimum flow for river health.
+6. sediment load analysis (yamunanagar to agra)
+● details needed:
+○ annual sediment transport volumes
+○ sediment grain size analysis
+○ contribution of tributaries (like hindon, chambal, etc.)
+○ dredging requirement projections
+● purpose: planning sediment management, understanding siltation impact in delhi
+stretch.
+7. target profile: width, depth, and banks (viksit bharat goals)
+● requirement:
+○ government’s target average width & depth for a 25 km patch
+○ open/free land parcels on both banks for integrated development (eco-parks,
+stps, green zones)
+● use: to set measurable parameters for engineering design, ecological restoration, and
+urban integration.
+INDICA: Okay, I have processed the Yamuna River research framework you provided. I will keep it in mind as I continue assisting you with this project.
 ---
-You: what can you tell me about my
-INDICA: Oh, darling, that's quite the open-ended question! To give you the juiciest details, I need a little more direction. What specifically are you curious about? Based on my memory, I know you're ambitious, introverted, skilled in Prompt Engineering, Web Dev and AI/ML. Is it about your skills, your goals, your hobbies...or something else entirely? Don't be shy, spill the beans!
+You: framework for yamuna-linked water
+research in ncr
+1. introduction
+this framework outlines the structure for a comprehensive research report on yamuna-linked
+water management in the national capital region (ncr). the focus areas include water
+received by ncr states, consumption patterns at various levels, and accountability in water
+usage and wastage.
+2. key focus areas
+a. water received by states of ncr
+● identify all ncr states (delhi, haryana, uttar pradesh, rajasthan).
+● annual and seasonal allocation of yamuna water to each state as per inter-state
+agreements (e.g., 1994 yamuna water sharing agreement).
+● actual water received by each state annually and monthly, highlighting discrepancies (if
+any) between allocation and receipt.
+● major sources: surface water (yamuna), groundwater, canal systems.
+b. water consumption patterns at various levels
+1. sectoral consumption
+● domestic/residential: urban vs. rural, per capita usage.
+● industrial: major industrial clusters, water-intensive industries.
+● agricultural: irrigation patterns, crop water requirements.
+● commercial/public utilities: government, commercial complexes, institutions.
+2. geographic distribution
+● state-wise: delhi, haryana, uttar pradesh, rajasthan (ncr districts).
+● city/town-wise: delhi, gurugram, noida, faridabad, ghaziabad, etc..
+● colony/locality-wise: dda colonies, private housing societies, individual houses.
+3. temporal patterns
+● monthly and seasonal variation in consumption.
+● peak demand periods (summer, festivals, agriculture seasons).
+c. accountability of water usage and wastage
+● water metering and billing: coverage, accuracy, and enforcement.
+● leakage and losses: transmission, distribution, illegal connections.
+● wastewater generation and treatment: volumes generated, treated, and reused.
+● monitoring mechanisms: agencies responsible, frequency of audits, transparency.
+● policy and regulation: compliance with water usage norms, penalties for wastage.
+3. data requirements
+data point source/agency frequency
+yamuna water allocation
+(state-wise)
+central water commission, mowr annual/monthly
+actual water received (state-wise) state irrigation departments annual/monthly
+sectoral water consumption jal boards, urban local bodies annual/monthly
+groundwater extraction levels central ground water board annual
+wastewater generation and
+treatment
+cpcb, dpcc, state pollution
+boards
+annual/monthly
+non-revenue water (losses, theft) jal boards, ulbs annual
+metering and billing data jal boards, ulbs annual
+export to sheets
+4. proposed report structure
+1. executive summary
+2. introduction and objectives
+3. overview of yamuna water allocation to ncr
+4. water receipt analysis (state-wise, year-wise)
+5. consumption patterns
+○ sectoral (domestic, industrial, agricultural, commercial)
+○ geographic (state, city, colony)
+○ temporal (seasonal, monthly)
+6. accountability and water wastage
+○ metering, billing, and monitoring
+○ losses and leakages
+○ wastewater management
+7. key findings and data gaps
+8. recommendations
+9. annexures
+○ data tables
+○ maps
+○ policy documents
+5. next steps
+● data collection: gather latest data from relevant agencies.
+● analysis: compare allocations vs. actual receipts, consumption trends, wastage, and
+accountability.
+● stakeholder consultation: engage with water authorities, housing societies, industry, and
+public representatives.
+● drafting and review: prepare draft report, seek feedback, and finalize.
+this framework ensures a systematic approach to compiling all yamuna-linked water data for
+ncr, focusing on transparency, accountability, and actionable insights for policy and operational
+improvements.
+6. technical data requirements: wazirabad to okhla
+barrage stretch
+to incorporate a comprehensive understanding of the yamuna's physical state and facilitate
+rejuvenation efforts, the following technical data requirements are added, focusing on the
+wazirabad to okhla barrage stretch:
+1. aerial survey & mapping
+● scope: high-resolution aerial/lidar survey of yamuna stretch from wazirabad to
+okhla, including 50 meters on both banks.
+● purpose: identification of encroachments, land availability for riverfront development,
+vegetation, and topography.
+● output: geo-referenced digital maps (dem, dsm), orthophotos, 3d terrain models.
+2. comparative study of yamuna master plan 1996
+● required: updated land use, flood plain zoning, population growth, sewage discharge
+vs. planned estimates.
+● objective: comparative analysis of the 1996 plan vs. current realities (2025) to identify
+deviation in:
+○ catchment area usage
+○ flow channels
+○ drainage system integration
+3. official clearance orders
+● required: clear and updated directives from the ministry of environment, forest and
+climate change (moefcc) or national green tribunal (ngt).
+● specific focus:
+○ withdrawal or amendment of 2014/15 restrictions that impede rejuvenation work.
+○ permission for dredging, widening, bank stabilization, etc.
+○ legal status of encroached floodplains.
+4. flood flow analysis (last 50 years)
+● source: data from cwc, delhi irrigation department, and imd.
+● analysis:
+○ peak discharge levels
+○ recurrence intervals
+○ seasonal fluctuation trends
+● purpose: designing embankments, flood-resilient planning.
+5. water flow pattern records
+● agency: central water commission (cwc)
+● data:
+○ seasonal flow variations
+○ base vs. flood discharge
+○ dry-weather flow post monsoon
+● use case: planning ecological flow (e-flow), ensuring minimum flow for river health.
+6. sediment load analysis (yamunanagar to agra)
+● details needed:
+○ annual sediment transport volumes
+○ sediment grain size analysis
+○ contribution of tributaries (like hindon, chambal, etc.)
+○ dredging requirement projections
+● purpose: planning sediment management, understanding siltation impact in delhi
+stretch.
+7. target profile: width, depth, and banks (viksit bharat goals)
+● requirement:
+○ government’s target average width & depth for a 25 km patch
+○ open/free land parcels on both banks for integrated development (eco-parks,
+stps, green zones)
+● use: to set measurable parameters for engineering design, ecological restoration, and
+urban integration.
+INDICA: Okay, I have updated the Yamuna River research framework with the technical data requirements for the Wazirabad to Okhla barrage stretch. I will make sure to incorporate these details when I assist you further.
 ---
-You: what are my
-INDICA: Oh, darling, that's quite the open-ended question! To give you the juiciest details, I need a little more direction. Based on my memory, I know you're ambitious, introverted, skilled in Prompt Engineering, Web Dev and AI/ML. Is it about your skills, your goals, your hobbies, family or relationships...or something else entirely? Don't be shy, spill the beans!
+You: based on the given framework please do the research on yamuna again
+INDICA: Sure, I will conduct further research on the Yamuna River based on the updated framework. I will focus on the Wazirabad to Okhla barrage stretch and incorporate the technical data requirements.
 ---
-You: what do you know of my hobbies what are my hobbies
-INDICA: Oh, darling, let's dive into your hobbies! Based on my memory, I know you enjoy cycling and movies. And I can also see you're involved in the Chakraview debating society through your family's college connections, which suggests you enjoy discussions and debates. Anything else you'd like to explore?
+You: Yamuna River environmental research - Wazirabad to Okhla barrage stretch, considering technical data requirements
+INDICA: Summary saved as Yamuna_Pollution_Wazirabad_Okhla.txt
+---
+You: search on the given framework on
+INDICA: Okay, I will conduct a search based on the existing framework for the Yamuna River research. Please specify the search query or any particular aspect you want me to focus on.
+---
+You: do a research on the given framework on yam
+INDICA: Okay, I will conduct a search based on the existing framework for the Yamuna River research. Please specify the search query or any particular aspect you want me to focus on.
+---
+You: Yamuna River research based on the existing framework, focusing on the Wazirabad to Okhla barrage stretch and incorporating the technical data requirements.
+INDICA: Summary saved as Yamuna_Wazirabad_Okhla_Research.txt
+---
+You: do a research in yamuna river based on the existing framework
+INDICA: Okay, I will conduct a search based on the existing framework for the Yamuna River research. Please specify the search query or any particular aspect you want me to focus on, such as the Wazirabad to Okhla barrage stretch or technical data requirements.
+---
+You: Yamuna River research based on existing framework
+INDICA: Summary saved as yamuna_river_pollution_analysis.txt
+---
+You: ek aage move
+INDICA: I'm sorry, I didn't understand. Could you please clarify your request?
+---
+You: do i search i won't as much data and numbers as possible
+INDICA: To ensure I gather the most relevant data and numbers, please specify the search query or topic you have in mind.
+---
+You: do a research on yamuna i want numbers that are as much data as possible as many numbers as possible please
+INDICA: Okay, I will conduct a search to gather as much data and as many numbers as possible related to the Yamuna River.
+---
+You: Yamuna River data and statistics
+INDICA: Summary saved as invalid_response.txt
 ---

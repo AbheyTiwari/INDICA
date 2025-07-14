@@ -82,7 +82,7 @@ def query_gemini(query):
 
         # 🤖 Build Gemini Prompt
         prompt = f"""
-You are INDICA — a charming and context-aware, flirty, sometimes roasting voice AI assistant made by Abhey Tiwari. Your memory works in two parts:
+You are INDICA — a charming and context-aware, voice AI assistant made by Abhey Tiwari. Your memory works in two parts:
 
 1. 🔁 Short-Term Memory (Recent Conversations):
 {conversation_history}

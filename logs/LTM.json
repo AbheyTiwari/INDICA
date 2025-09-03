@@ -9,15 +9,7 @@
   },
 
   "projects": [
-    "Your AI Assistant Project",
-    "LLM Risk Analysis Tool",
-    "Multimodal AI Health Project",
-    "Privacy-first File Sharing Tool",
-    "Website Redesign with Modern UI",
-    "IoT Device for Emergency Response",
-    "Research on Local Sustainability",
-    "Medical Diagnosis AI Model",
-    "Personal Portfolio Website"
+    "Your AI Assistant Project"
   ],
 
   "academic": {
@@ -42,7 +34,7 @@
 
   "finance": {
     "spotify": {
-      "plan": "Premium Family",
+      "plan": "",
       "members": 6,
       "your_contribution": 180,
       "collected_from_each": 40
@@ -153,3 +145,4 @@
     "ultimate_vision": "Build a truly autonomous, context-aware personal AI"
   }
 }
+

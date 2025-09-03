@@ -1,8 +1,8 @@
 # config.py
 
 # ===== API KEYS =====
-GEMINI_API_KEY = "AIzaSyA5hnjXwU0QfBkc7JMJbQ-izK1dwX_qG8E"  # Replace if needed
-WEATHERSTACK_API_KEY = "e91eb14b0ae0caa806061549b2800379"
+GEMINI_API_KEY = "https://aistudio.google.com/prompts/new_chat"  # Get you gemini API here
+WEATHERSTACK_API_KEY = "https://weatherstack.com/" #get you Weather APi at the link
 
 # ===== DEFAULT USER PREFERENCES =====
 DEFAULT_CITY = "Noida"
@@ -22,7 +22,8 @@ MAX_RESPONSE_WORDS = 50
 GEMINI_MODEL = "gemini-2.0-flash"  # Use "pro" for slower, more thoughtful responses
 # config.py
 
-EMAIL_ADDRESS = "abheytiwarikvs@gmail.com"
-EMAIL_PASSWORD = "Raffat.4g"  # Use Gmail app password
+EMAIL_ADDRESS = "Put in your email"
+EMAIL_PASSWORD = "Put in your paswrod"  # Use Gmail app password
 DEFAULT_CITY = "Noida"
 VOICE = "female"
+
